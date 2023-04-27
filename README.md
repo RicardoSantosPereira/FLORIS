@@ -1,2 +1,3 @@
 # FLORIS
-FLORIS_versions
+# FLORIS_versions
+# this repository is for plpaying with FLORIS, from NREL
